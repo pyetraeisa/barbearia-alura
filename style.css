@@ -10,7 +10,8 @@ h1 {
     text-align: center;
 }
 p{
-	text-align: center;F
+	text-align: center;}
+
 #missao {
     font-size= 20px
 }
@@ -25,3 +26,10 @@ em strong   {
 .beneficios  {
     background:  #FFFFFF;
 }
+
+  h2 {
+       text-align: center;
+
+.imagembeneficios {
+    width: 50%;
+
