@@ -6,7 +6,16 @@ body{
     width: 100%;
 }
 
-h1 {
+  .principal{
+        background: #cccccc;
+        padding: 30px;
+  }
+
+.titulo-principal{
+    padding-left: 20px;
+}
+
+.titulo-centralizado}
     text-align: center;
 }
 p{
@@ -25,10 +34,18 @@ em strong   {
 
 .beneficios  {
     background:  #FFFFFF;
+    padding: 20px;
 }
 
   h2 {
        text-align: center;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
 
 .imagembeneficios {
     width: 50%;
